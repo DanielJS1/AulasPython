@@ -21,3 +21,5 @@ if Camaro.motor == "V8":
     print("O camaro tem o motor V8.")
 else:
     print("Este camaro não tem motor V8.")
+
+print("Just test")
