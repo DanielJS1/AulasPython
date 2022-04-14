@@ -25,3 +25,5 @@ else:
 print("Just test")
 
 print("Secund test in GitHub.")
+
+print("Other test")
